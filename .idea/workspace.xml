@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81471a56-4e37-4e8e-9f15-76b77d059a29" name="Changes" comment="FIrst python program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <changelist_data name="Ashish Bisht" email="bisht2001ashish@gmail.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/Assignment 1: Basic Python Concepts/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/Assignment 1: Basic Python Concepts/Task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/Assignment 1: Basic Python Concepts/Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/challenge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.challenge.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task 1.executor": "Run",
+    "Python.Task 2.executor": "Run",
+    "Python.challenge.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignments/Assignment 1: Basic Python Concepts" />
+      <recent name="$PROJECT_DIR$/Assignments" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742272339943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FIrst python program">
+      <option name="closed" value="true" />
+      <created>1742272500232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742272500232</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FIrst python program">
+      <option name="closed" value="true" />
+      <created>1742272528790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742272528790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

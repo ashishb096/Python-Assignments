@@ -15,7 +15,6 @@ print('Celcius: ',c)
 
 '''
 
-#Simple Interest Calculator
 #EQN: PNR/100
 P=int(input('Enter the Principal amount: '))
 R=int(input('Enter the Rate of Interest: '))
