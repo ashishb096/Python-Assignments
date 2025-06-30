@@ -1,4 +1,4 @@
-def factorial(n):
+def factori(n):
     fact=1
     n=int(n)
     for i in range(n):
@@ -8,5 +8,5 @@ def factorial(n):
 
 
 n= input("Enter the number to generate factorial:")
-factorials=factorial(n)
+factorials=factori(n)
 print("Factorial is:\t", factorials)
